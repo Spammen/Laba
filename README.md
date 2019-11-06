@@ -13,7 +13,7 @@ IDEF0 (png)<br>
 **Определение надсистемы (среды функционирования)**<br>
 [Блок Plan-Do-Check](http://127.0.0.1:55093/idef0/index.html?id=4)<br> 
 <img src="model2.png"><br>
-[Блок Check](http://127.0.0.1:55093/idef0/index.html?id=24)<br>
+[Блок Check](https://github.com/Spammen/Laba/blob/master/image.png?raw=true)<br>
 <img src="check.png"><br>
 **Лабораторная 3**<br>
 [Блок Создание оригинал-макета книги](http://127.0.0.1:55093/idef0/index.html?id=58)<br>
