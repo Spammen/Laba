@@ -21,5 +21,4 @@ IDEF0 (png)<br>
 [Блок Создание оригинал-макета книги](http://127.0.0.1:55093/idef0/index.html?id=58)<br>
 <img src="originalmake.png"><br>
 
-[Блок Создание оригинал-макета книги](http://127.0.0.1:55093/idef0/index.html?id=58)<br>
-<img src="originalmake.png"><br>
+<img src="sh3.png"><br>
