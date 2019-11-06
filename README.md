@@ -15,6 +15,8 @@ IDEF0 (png)<br>
 <img src="model2.png"><br>
 [Блок Check](https://github.com/Spammen/Laba/blob/master/image.png?raw=true)<br>
 <img src="image.png"><br>
+Прецеденты:
+<img src="sh2.png"><br>
 **Лабораторная 3**<br>
 [Блок Создание оригинал-макета книги](http://127.0.0.1:55093/idef0/index.html?id=58)<br>
 <img src="originalmake.png"><br>
